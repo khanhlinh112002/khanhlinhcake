@@ -1,6 +1,6 @@
 account linh.nguyenthikhanh02@gmail.com
 mk: khanhlinh
-#Các tạo domain ảo
+@Các tạo domain ảo
 đầu tiên đăng ký tài khoản google analytics
 tiếp theo là tạo tên miền ảo trên xampp cho project
 Bước 1: Cấu hình lại file hosts
